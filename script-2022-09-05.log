@@ -1,0 +1,76 @@
+Script started on 2022-09-05 14:10:30-04:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="120" LINES="30"]
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ls
+script-2022-09-05.log  time-2022-09-05.txt  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ mkdir CISC 3142
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ LS[K[Kls
+[0m[01;34m3142[0m  [01;34mCISC[0m  script-2022-09-05.log  time-2022-09-05.txt  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ mv CISC 3142[K[K[K[K[K CISC3142
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ls
+[0m[01;34m3142[0m  [01;34mCISC3142[0m  script-2022-09-05.log  time-2022-09-05.txt  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ rm -d 3142
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ls
+[0m[01;34mCISC3142[0m  script-2022-09-05.log  time-2022-09-05.txt  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ cd CISC3142
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142[00m$ ls
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142[00m$ cd
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ls
+[0m[01;34mCISC3142[0m  script-2022-09-05.log  time-2022-09-05.txt  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ mv script-20220[K-09-05.log /CISC4[K3142
+mv: cannot move 'script-2022-09-05.log' to '/CISC3142': Permission denied
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ mv time-2022=[K-09-05.txt /CISC3142
+mv: cannot move 'time-2022-09-05.txt' to '/CISC3142': Permission denied
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ mv time-2022-09-05.txt /CISC3142
+mv: cannot move 'time-2022-09-05.txt' to '/CISC3142': Permission denied
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ sudo mv mv time-2022-09-05.txt /CISC3142[1@s[1@u[1@d[1@o[1@ 
+[sudo] password for romacoop: 
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ls
+[0m[01;34mCISC3142[0m  script-2022-09-05.log  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ cd CISC3142
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142[00m$ ls
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142[00m$ ls CISC3142
+ls: cannot access 'CISC3142': No such file or directory
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142[00m$ cd
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ls -d CISC[K[K[K[K-l c[KCISC3241[K[K[K142
+drwxr-xr-x 2 romacoop romacoop 4096 Sep  5 14:11 [0m[01;34mCISC3142[0m
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ cd CISC3142
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142[00m$ ls
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142[00m$ cd
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ls
+[0m[01;34mCISC3142[0m  script-2022-09-05.log  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ sudo ls
+[sudo] password for romacoop: 
+CISC3142  script-2022-09-05.log  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ls
+[0m[01;34mCISC3142[0m  script-2022-09-05.log  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ g++ --cer[K[K[Kversion
+g++ (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ vim helloword.[K[Kld.cc
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;30r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[30;1H"helloworld.cc" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [m[30;103H0,0-1[9CAll[1;1H[?25h[?25l[30;93H^[[1;1H[30;95H[[1;1H[30;96H>[1;1H[30;97H0[1;1H[30;98H;[1;1H[30;99H1[1;1H[30;100H0[1;1H[30;101H;[1;1H[30;93H         [1;1H[?25h[?25l[30;93H#[1;1H[30;1H[97m[41mE348: No string under cursor[m[30;93H[K[1;1H[30;103H0,0-1[9CAll[1;1H[?25h[?25l[30;93Hi[1;1H[30;93H [1;1H[30;1H[1m-- INSERT --[m[30;13H[K[30;103H0,1[11CAll[1;1H[?25h[?25l#[30;103H1,2[1;2H[?25h[?25li[30;105H3[1;3H[?25h[?25ln[30;105H4[1;4H[?25h[?25lc[30;105H5[1;5H[?25h[?25ll[30;105H6[1;6H[?25h[?25lu[30;105H7[1;7H[?25h[?25ld[30;105H8[1;8H[?25h[?25le[30;105H9[1;9H[?25h[?25l[30;105H10[1;10H[?25h[?25l[35m#include <[m[30;106H1[1;11H[?25h[?25ls[30;106H2[1;12H[?25h[?25lr[30;106H3[1;13H[?25h[?25l[1;12H[K[30;106H2[1;12H[?25h[?25lt[30;106H3[1;13H[?25h[?25ld[30;106H4[1;14H[?25h[?25l.[30;106H5[1;15H[?25h[?25l[1;14H[K[30;106H4[1;14H[?25h[?25li[30;106H5[1;15H[?25h[?25lo[30;106H6[1;16H[?25h[?25l.[30;106H7[1;17H[?25h[?25lh[30;106H8[1;18H[?25h[?25l[1;10H[31m<stdio.h>[m[30;106H9[1;19H[?25h[?25l[2;1H[K[30;103H2,1 [2;1H[?25h[?25lu[30;105H2[2;2H[?25h[?25lb[30;105H3[2;3H[?25h[?25l[2;2H[K[30;105H2[2;2H[?25h[?25l[2;1H[K[30;105H1[2;1H[?25h[?25li[30;105H2[2;2H[?25h[?25ln[30;105H3[2;3H[?25h[?25l[32mint[m[30;105H4[2;4H[?25h[?25l[30;105H5[2;5H[?25h[?25lm[30;105H6[2;6H[?25h[?25la[30;105H7[2;7H[?25h[?25li[30;105H8[2;8H[?25h[?25ln[30;105H9[2;9H[?25h[?25l([30;105H10[2;10H[?25h[?25l)[106m()[m[30;106H1[2;11H[?25h[?25l{()[30;106H2[2;12H[?25h[?25l
+        [3;9H[K[30;103H3,2-9[3;9H[?25h[?25lp[30;105H3-10[3;10H[?25h[?25lr[30;105H4-11[3;11H[?25h[?25li[30;105H5-12[3;12H[?25h[?25ln[30;105H6-13[3;13H[?25h[?25lt[30;105H7-14[3;14H[?25h[?25lf[30;105H8-15[3;15H[?25h[?25l([30;105H9-16[3;16H[?25h[?25l[31m"[m[30;105H10-17[3;17H[?25h[?25l[31mG[m[30;106H1-18[3;18H[?25h[?25l[31me[m[30;106H2-19[3;19H[?25h[?25l[3;18H[K[30;106H1-18[3;18H[?25h[?25l[3;17H[K[30;106H0-17[3;17H[?25h[?25l[31mH[m[30;106H1-18[3;18H[?25h[?25l[31me[m[30;106H2-19[3;19H[?25h[?25l[31ml[m[30;106H3-20[3;20H[?25h[?25l[31ml[m[30;106H4-21[3;21H[?25h[?25l[31mo[m[30;106H5-22[3;22H[?25h[?25l[31m [m[30;106H6-23[3;23H[?25h[?25l[31mW[m[30;106H7-24[3;24H[?25h[?25l[31mo[m[30;106H8-25[3;25H[?25h[?25l[31mr[m[30;106H9-26[3;26H[?25h[?25l[31ml[m[30;105H20-27[3;27H[?25h[?25l[31md[m[30;106H1-28[3;28H[?25h[?25l[35m\[m[30;106H2-29[3;29H[?25h[?25l[35mn[m[30;106H3-30[3;30H[?25h[?25l[31m"[m[30;106H4-31[3;31H[?25h[?25l)[3;15H[106m([15C)[m[30;106H5-32[3;32H[?25h[?25l;[3;15H([15C)[30;106H6-33[3;33H[?25h[?25l
+        [4;9H[K[30;103H4,2-9  [4;9H[?25h[?25l}[2;11H[106m{
+
+}[m[30;106H  [4;2H[?25h[?25l[5;1H[K[2;11H{
+
+}[30;103H5,1[5;1H[?25h[?25l[6;1H[K[30;103H6[6;1H[?25h[30;1H[K[6;1H[?25l[30;93H^[[6;1H[30;93H  [6;1H[30;103H6,0-1[9CAll[6;1H[?25h[?25l[30;93H^[[6;1H[30;93H  [6;1H[30;93H^[[6;1H[30;93H  [6;1H[?25h[?25l[30;93H:[6;1H[30;93H[K[30;1H:[?2004h[?25hwq[?25l[?2004l"helloworld.cc" [New] 6L, 61C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ls
+[0m[01;34mCISC3142[0m  helloworld.cc  script-2022-09-05.log  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ c++ helloworld.cc
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ /ls[K[K[Kls
+[0m[01;34mCISC3142[0m  [01;32ma.out[0m  helloworld.cc  script-2022-09-05.log  typescript
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ ./a.out
+Hello World
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ cat helloworld.cc
+#include <stdio.h>
+int main(){
+	printf("Hello World\n");
+}
+
+
+]0;romacoop@DESKTOP-SPKI8BN: ~[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2022-09-05 18:38:41-04:00 [COMMAND_EXIT_CODE="0"]

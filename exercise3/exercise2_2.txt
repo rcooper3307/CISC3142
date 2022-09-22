@@ -1,0 +1,11 @@
+To calculate a mortgage payment, what types would you use for the rate,
+principal, and payment? Explain why you selected each type.
+
+rate: double
+Since the rate is a percentage, it would be most accurate to use a double to make sure to capture as many decimal points as possible.
+
+principal: float
+Since the principal is an amount that you pay with money and we only use two of the spaces to the right of the decimal for change, float is reliable enough.
+
+payment: float
+Since payment is also an amount in money, a float value is accurate enough.

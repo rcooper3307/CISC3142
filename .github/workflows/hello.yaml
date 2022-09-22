@@ -1,0 +1,7 @@
+name: my_workflow
+on: push
+jobs: 
+        name: hello_world
+        steps:
+                uses: actions/checkout@v2
+                

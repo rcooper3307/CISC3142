@@ -1,0 +1,5 @@
+What are the differences between int, long, long long, and short?
+Between an unsigned and a signed type? Between a float and a double?
+
+The short type has a size of 16 bits, int type is at least as big as the short type, the long type is at least as big as the int type,and the long long type is at least as big as the long type. Signed type represents negative or positive numbers including zero while the unsigned type only represents values greater than or equal to 0. The float type typically represents 32 bits and yields 7 significant digits while the double type represents 64 digits and yields 16 significant digits.
+

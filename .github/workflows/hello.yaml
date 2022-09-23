@@ -1,7 +1,9 @@
-name: my_workflow
-on: push
-jobs: 
-        name: hello_world
-        steps:
-                uses: actions/checkout@v2
+name: Hello World
+on: [push]
+jobs:
+        HelloWorld:
+                runs-on: ubuntu-latest
+                steps:
+                        - run: echo '#include <iostream> int main(){ std::cout << "Hi";}' > hello.cpp
+                        - run: ./hello
                 

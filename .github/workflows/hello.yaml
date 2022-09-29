@@ -4,6 +4,6 @@ jobs:
         HelloWorld:
                 runs-on: ubuntu-latest
                 steps:
-                        - run: echo '#include <iostream> int main(){ std::cout << "Hi";}' > hello.cpp
-                        - run: ./hello
+                        - run: echo -e '#include <iostream> int main(){ std::cout << "Hi";}' > hello.cpp
+                        - run: g++ -o hello hello.cpp && ./hello
                 

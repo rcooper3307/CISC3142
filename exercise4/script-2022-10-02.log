@@ -1,0 +1,55 @@
+Script started on 2022-10-02 01:51:00-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142/exercise4[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142/exercise4[00m$ ./exercise3_17
+Enter words and type 'stop' to stop
+fdkjf
+dfkjsjfd   
+dfsf
+sdf
+sfsdf
+dsfsd
+fsdfsfsfd
+fsdfsf
+dsfs
+fsfsdf
+sfdsfsd
+fsdf
+sfs
+fsf
+fsf
+sfs
+fsfsfsf
+sfsfdfwer
+ghrth
+wrtwre
+stop
+fdkjf dfkjs dfsf sdf sfsdf dsfsd fsdfsfsfd fsdfsf 
+dsfs fsfsdf sfdsfsd fsdf sfs fsf fsf sfs 
+fsfsfsf sfsfdfwer ghrth wrtwre 
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142/exercise4[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142/exercise4[00m$ ./exercise3_23
+0 2 4 6 8 10 12 14 16 18 
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142/exercise4[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142/exercise4[00m$ ,[K./exercise3[K4_28
+The space required to hold an int object is 4 bytes.
+The space required to hold a float object is 4 bytes.
+The space required to hold a long object is 8 bytes.
+The space required to hold a char object is 1 bytes.
+The space required to hold a double object is 8 bytes.
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142/exercise4[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142/exercise4[00m$ ./exer[K[K[K[Kprax[Kcticeproblem1
+Enter the cost of the item.
+8
+Enter the number of years in which the item will be purchased.
+1
+Enter the rate of inflation (%).
+5.6
+The estimated cost of the item in 1 years will be 8.448
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142/exercise4[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142/exercise4[00m$ ./practiceproblem2
+Enter the amount of artificial sweetner (in grams) needed to kill a mouse.
+5
+Enter the mass of the mouse (in grams).
+35
+Enter the goal weight (in grams) of the dieter
+45400
+The amount of soda pop cans you would need to drink to kill yourself is 18530
+]0;romacoop@DESKTOP-SPKI8BN: ~/CISC3142/exercise4[01;32mromacoop@DESKTOP-SPKI8BN[00m:[01;34m~/CISC3142/exercise4[00m$ exit
+exit
+
+Script done on 2022-10-02 01:52:54-04:00 [COMMAND_EXIT_CODE="0"]

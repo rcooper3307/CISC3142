@@ -276,4 +276,34 @@ bash: cd: .github/workflow: No such file or directory
 [36mon[m[35m:[m [35m[[mpush[35m][m
 [36mjobs[m[35m:[m[4;9H[36mHelloWorld[m[35m:[m[5;17H[36mruns-on[m[35m:[m ubuntu-latest[6;17H[36msteps[m[35m:[m[7;25H[38;5;130m- [m[36mrun[m[35m:[m echo -e [31m'#include <iostream> int main(){ std::cout << "Hi";}'[m > hello.cpp[8;25H[38;5;130m- [m[36mrun[m[35m:[m g++ -o hello hello.cpp [32m&&[m ./hello
 
-[94m~                                                                                                                   [11;1H~                                                                                                                   [12;1H~                                                                                                                   [13;1H~                                                                                                                   [14;1H~                                                                                                                   [15;1H~                                        
+[94m~                                                                                                                   [11;1H~                                                                                                                   [12;1H~                                                                                                                   [13;1H~                                                                                                                   [14;1H~                                                                                                                   [15;1H~                                                                                                                   [16;1H~                                                                                                                   [17;1H~                                                                                                                   [18;1H~                                                                                                                   [19;1H~                                                                                                                   [20;1H~                                                                                                                   [21;1H~                                                                                                                   [22;1H~                                                                                                                   [23;1H~                                                                                                                   [24;1H~                                                                                                                   [25;1H~                                                                                                                   [26;1H~                                                                                                                   [27;1H~                                                                                                                   [28;1H~                                                                                                                   [29;1H~                                                                                                                   [30;1H~                                                                                                                   [m[31;99H8,64[10CAll[8;64H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?1000l[?1002h[?12$p[?25l[31;89H^[[8;64H[31;89H  [8;64H[31;89H^[[8;64H[31;89H  [8;64H[?25h[?25l[31;89H:[8;64H[31;1H[K[31;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?1002l[?2004l"hello.yaml" 9L, 304C written[23;2t[23;1t[22;2t[22;1t[23;2t[23;1t
+[?2004l[?1l>[?25h[?1049l[23;0;0t]0;rcooper3307@penguin: ~/CISC3142/.github/workflows[01;32mrcooper3307@penguin[00m:[01;34m~/CISC3142/.github/workflows[00m$ git add .
+]0;rcooper3307@penguin: ~/CISC3142/.github/workflows[01;32mrcooper3307@penguin[00m:[01;34m~/CISC3142/.github/workflows[00m$ cd
+]0;rcooper3307@penguin: ~[01;32mrcooper3307@penguin[00m:[01;34m~[00m$ cd CISC3142
+]0;rcooper3307@penguin: ~/CISC3142[01;32mrcooper3307@penguin[00m:[01;34m~/CISC3142[00m$ git add .
+]0;rcooper3307@penguin: ~/CISC3142[01;32mrcooper3307@penguin[00m:[01;34m~/CISC3142[00m$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   .github/workflows/hello.yaml[m
+	[32mnew file:   exercise4/exercise3_17.cpp[m
+	[32mnew file:   exercise4/exercise3_23.cpp[m
+	[32mnew file:   exercise4/exercise4_28.cpp[m
+	[32mnew file:   exercise4/script-2022-09-28.log[m
+	[32mnew file:   exercise4/time-2022-09-28.txt[m
+
+]0;rcooper3307@penguin: ~/CISC3142[01;32mrcooper3307@penguin[00m:[01;34m~/CISC3142[00m$ gitc[K commit -m "some progress on ex4"
+[main fdf37a8] some progress on ex4
+ 6 files changed, 3070 insertions(+), 2 deletions(-)
+ create mode 100644 exercise4/exercise3_17.cpp
+ create mode 100644 exercise4/exercise3_23.cpp
+ create mode 100644 exercise4/exercise4_28.cpp
+ create mode 100644 exercise4/script-2022-09-28.log
+ create mode 100644 exercise4/time-2022-09-28.txt
+]0;rcooper3307@penguin: ~/CISC3142[01;32mrcooper3307@penguin[00m:[01;34m~/CISC3142[00m$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)

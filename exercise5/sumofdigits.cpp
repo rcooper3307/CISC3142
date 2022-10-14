@@ -8,8 +8,9 @@ using std::cin;
 using std::endl;
 int main(){
 	int sum = 0, num; //declare variables
-	cout << "Enter a number" << endl; //prompt user to enter number
-	cin >> num; //store user input in num
+	cout << "Enter input from file" << endl; //prompt user to enter number
+	while(cin >> num){} //store input in num
+	cout << "The number input was " << num << endl;
 	while (num > 0){ //while the value of num is still greater than 0, mod num by 10, add the remainder to sum, and then divide num by 10 to get rid of the front number
 		sum += num % 10;
 		num /= 10;

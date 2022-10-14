@@ -15,7 +15,7 @@ lab5:
 	echo Running Prime Numbers
 	g++ -std=c++14 -o ./executables/primenumbers ./exercise5/primenumbers.cpp && ./executables/primenumbers
 
-	printf"\n"
+	printf "\n"
 
 	echo Running Linear Regression
 	g++ -std=c++14 -o ./executables/linearregression ./exercise5/linearregression.cpp && ./executables/linearregression<./exercise5/linear_regression_input.txt

@@ -1,0 +1,15 @@
+1977;136;Spy Who Loved Me, The;Action;Moore, Roger;Bach, Barbara;Gilbert, Lewis;27;No;NicholasCage.png
+1988;100;Storm;Action;Palfy, David;Bahtia, Stacy Christensen;Winning, David;61;No;NicholasCage.png
+1991;89;Bloodbath;Horror;Hopper, Dennis;Baker, Carroll;;37;No;NicholasCage.png
+1989;103;Miami Cops;Action;Roundtree, Richard;Baker, Dawn;Bradley, Al;40;No;NicholasCage.png
+1996;96;Island of Dr. Moreau, The;Horror;Thewlis, David;Balk, Fairuza;Frankenheimer, John;39;No;NicholasCage.png
+1992;100;Eighty-Four Charing Cross Road;Drama;Hopkins, Anthony;Bancroft, Anne;Jones, David;9;No;AnthonyHopkins.png
+1980;124;Elephant Man, The;Drama;Hopkins, Anthony;Bancroft, Anne;Lynch, David;3;Yes;AnthonyHopkins.png
+1988;90;Dr Alien;Science Fiction;Jacoby, Billy;Barash, Olivia;DeCoteau, David;70;No;NicholasCage.png
+1982;120;Creepshow;Horror;Holbrook, Hal;Barbeau, Adrienne;Romero, George A.;70;No;NicholasCage.png
+1987;100;Sammy & Rosie Get Laid;Drama;Din, Ayub Khan;Barber, Frances;Frears, Stephen;6;No;NicholasCage.png
+1971;101;Goalie's Anxiety at the Penalty Kick, The;Drama;Brauss, Arthur;Bardischewski, Maria;Wenders, Wim;62;No;NicholasCage.png
+1957;99;Mademoiselle Striptease;Comedy;Gelin, Daniel;Bardot, Brigitte;Allegret, Marc;25;No;brigitteBardot.png
+1969;86;Women, The;Drama;Ronet, Maurice;Bardot, Brigitte;Aurel, Jean;66;No;brigitteBardot.png
+1958;77;That Naughty Girl;Comedy;Bretonniere, Jean;Bardot, Brigitte;Boisrond, Michel;37;No;brigitteBardot.png
+1959;90;Voulez-Vous Danser Avec Moi?;Comedy;Vidal, Henri;Bardot, Brigitte;Boisrond, Michel;16;No;brigitteBardot.png

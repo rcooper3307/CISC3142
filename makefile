@@ -1,8 +1,7 @@
 .SILENT:
 
 all:
-	make lab5
-	make lab7
+	make lab10
 
 lab5: 
 	echo Printing .md file of exercises from textbook.
@@ -31,6 +30,13 @@ lab7:
 	echo Printing .md file of Struct
 	cat ./exercise7/struct.cpp
 	
+lab10:	
+	echo Running Exercise10
+	g++ -std=c++14 -o ./executables/exercise10 ./exercise10/exercise10.cpp && ./executables/exercise10
+
+	echo printing .cpp file of exercise10
+	cat ./exercise10/exercise10.cpp
+
 
 
 
